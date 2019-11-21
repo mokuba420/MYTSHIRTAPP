@@ -8077,11 +8077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MRTshirtAPi\\MRTshirtAPi.csproj",
+      "projectUniqueName": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MRTshirtAPi\\MRTshirtAPi.csproj",
       "projectName": "MRTshirtAPi",
-      "projectPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MRTshirtAPi\\MRTshirtAPi.csproj",
+      "projectPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MRTshirtAPi\\MRTshirtAPi.csproj",
       "packagesPath": "C:\\Users\\king kai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MRTshirtAPi\\obj\\",
+      "outputPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MRTshirtAPi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

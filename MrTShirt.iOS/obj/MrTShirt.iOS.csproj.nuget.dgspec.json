@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt.iOS\\MrTShirt.iOS.csproj": {}
+    "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt.iOS\\MrTShirt.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt.iOS\\MrTShirt.iOS.csproj": {
+    "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt.iOS\\MrTShirt.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt.iOS\\MrTShirt.iOS.csproj",
+        "projectUniqueName": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt.iOS\\MrTShirt.iOS.csproj",
         "projectName": "MrTShirt.iOS",
-        "projectPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt.iOS\\MrTShirt.iOS.csproj",
+        "projectPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt.iOS\\MrTShirt.iOS.csproj",
         "packagesPath": "C:\\Users\\king kai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt.iOS\\obj\\",
+        "outputPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt\\MrTShirt.csproj": {
-                "projectPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt\\MrTShirt.csproj"
+              "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt\\MrTShirt.csproj": {
+                "projectPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt\\MrTShirt.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt\\MrTShirt.csproj": {
+    "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt\\MrTShirt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt\\MrTShirt.csproj",
+        "projectUniqueName": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt\\MrTShirt.csproj",
         "projectName": "MrTShirt",
-        "projectPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt\\MrTShirt.csproj",
+        "projectPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt\\MrTShirt.csproj",
         "packagesPath": "C:\\Users\\king kai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\king kai\\Pictures\\MrTShirt-master\\MrTShirt\\obj\\",
+        "outputPath": "D:\\GITHUBUPDATAS\\MYTSHIRTAPP\\MrTShirt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

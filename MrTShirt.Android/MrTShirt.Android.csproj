@@ -122,5 +122,12 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\signup.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\back.jpg" />
+    <Content Include="Resources\drawable\backDrop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\istock.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

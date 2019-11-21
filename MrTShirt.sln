@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrTShirt.iOS", "MrTShirt.iO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrTShirt", "MrTShirt\MrTShirt.csproj", "{8752892E-595A-4602-BD28-4FAF429C07E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRTshirtAPi", "MRTshirtAPi\MRTshirtAPi.csproj", "{2ADF4B79-2151-4D38-85AB-9F0E22163498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MRTshirtAPi", "MRTshirtAPi\MRTshirtAPi.csproj", "{2ADF4B79-2151-4D38-85AB-9F0E22163498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
